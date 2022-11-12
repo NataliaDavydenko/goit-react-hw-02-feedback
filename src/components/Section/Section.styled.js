@@ -2,9 +2,9 @@ import styled from 'styled-components';
 
 export const Title = styled.h2`
   color: black;
-  font-size: 30px;
+  font-size: 20px;
   padding-top: 10px;
-  padding-bottom: 15px;
-  margin-top: 30px;
-  margin-bottom: 15px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 `;
